@@ -45,7 +45,7 @@ $ Python app.py
 8. Open the browser and go to
 
 ```
- http://localhost:5000
+ http://localhost:8000
 
 
 ```
